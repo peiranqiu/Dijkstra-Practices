@@ -1,0 +1,5 @@
+.idea/
+out/
+.DS_Store
+src/.DS_Store
+src/resources/.DS_Store
